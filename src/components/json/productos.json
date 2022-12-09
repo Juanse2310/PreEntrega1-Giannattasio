@@ -1,0 +1,13 @@
+[
+    {"id":1, "nombre":"vino 1", "descripcion":"la descripcion del vino 1", "imagen":"./images/VINO 1.jpg", "precio": 1560, "stock":6, "categoria":"Malbec" },
+    {"id":2, "nombre":"vino 2", "descripcion":"la descripcion del vino 2", "imagen":"./images/VINO 2.jpg", "precio": 1660, "stock":20, "categoria":"Malbec" },
+    {"id":3, "nombre":"vino 3", "descripcion":"la descripcion del vino 3", "imagen":"./images/VINO 3.jpg", "precio": 1590, "stock":2, "categoria":"Blend" },
+    {"id":4, "nombre":"vino 4", "descripcion":"la descripcion del vino 4", "imagen":"./images/VINO 4.jpg", "precio": 1300, "stock":9, "categoria":"Blend" },
+    {"id":5, "nombre":"vino 5", "descripcion":"la descripcion del vino 5", "imagen":"./images/VINO 5.jpg", "precio": 2000, "stock":1, "categoria":"Malbec" },
+    {"id":6, "nombre":"vino 6", "descripcion":"la descripcion del vino 6", "imagen":"./images/VINO 6.jpg", "precio": 2560, "stock":2, "categoria":"Blend" },
+    {"id":7, "nombre":"vino 7", "descripcion":"la descripcion del vino 7", "imagen":"./images/VINO 7.jpg", "precio": 9560, "stock":15, "categoria":"Blend" },
+    {"id":8, "nombre":"vino 8", "descripcion":"la descripcion del vino 8", "imagen":"./images/VINO 8.jpg", "precio": 2560, "stock":15, "categoria":"Blend" },
+    {"id":9, "nombre":"vino 9", "descripcion":"la descripcion del vino 9", "imagen":"./images/VINO 9.jpg", "precio": 1930, "stock":3, "categoria":"Blend" },
+    {"id":10, "nombre":"vino 10", "descripcion":"la descripcion del vino 10", "imagen":"./images/VINO 10.jpg", "precio": 1860, "stock":8, "categoria":"Blend" }
+
+]
