@@ -11,6 +11,7 @@ import './App.css';
 import Servicios from "./components/Servicios";
 import Checkout from "./components/Checkout";
 import ThankYou from "./components/ThankYou";
+import Contacto from "./components/Contacto";
 
 
 
@@ -25,6 +26,7 @@ function App() {
         <Route path={"/item/:id"} element={<ItemDetailContainer />}/>
         <Route path={"/category/:id"} element={<ItemListContainer />}/>
         <Route path={"/servicios"} element={<Servicios/>}/>
+        <Route path={"/contacto"} element={<Contacto/>}/>
         <Route path={"/cart"} element={<Cart />}/>
         <Route path={"/checkout"} element={<Checkout />} />
         <Route path={"/thankyou/:id"} element={<ThankYou />} />
